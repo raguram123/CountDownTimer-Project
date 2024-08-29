@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/029/108/640/large_2x/happy-new-year-2025-design-template-2025-new-year-celebration-concept-for-greeting-card-banner-and-post-template-free-vector.jpg");
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.heading{
+    font-size: 80px;
+    font-weight: 800;
+    margin: 70px;
+}
+#timer{
+    font-size: 70px;
+    text-align: center;
+    font-weight: 600;
+    border: 5px solid black;
+    border-radius: 25px;
+}
